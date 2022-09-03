@@ -127,6 +127,7 @@ const allAchievements = {
   s36 : "While you were away... Nothing happened.",
   s37 : "You followed the instructions",
   s38 : "Professional bodybuilder",
+  s39 : "Testing",
 };
 const secretAchievementTooltips = {
     s11 : "Click on this achievement.",
@@ -153,6 +154,7 @@ const secretAchievementTooltips = {
     s36 : "Have nothing happen while you were away.",
     s37 : "Follow instructions.",
     s38 : "Get all your dimension bulk buyers to 1e100.",
+    s39 : "This achievement is for testing purposes, ignore it.",
   };
 const allAchievementNums = Object.invert(allAchievements)
 // to retrieve by value: Object.keys(allAchievements).find(key => allAchievements[key] === "L4D: Left 4 Dimensions");
